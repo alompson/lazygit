@@ -41,6 +41,5 @@ func main() {
 
 	cmd.SetCommitService(commitService)
 
-	// Execute CLI
 	cmd.Execute()
 }
