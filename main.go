@@ -7,11 +7,11 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/alompson/lazy-git/cmd"
-	"github.com/alompson/lazy-git/internal/ai"
-	"github.com/alompson/lazy-git/internal/config"
-	"github.com/alompson/lazy-git/internal/git"
-	"github.com/alompson/lazy-git/internal/service"
+	"github.com/alompson/lazygit/cmd"
+	"github.com/alompson/lazygit/internal/ai"
+	"github.com/alompson/lazygit/internal/config"
+	"github.com/alompson/lazygit/internal/git"
+	"github.com/alompson/lazygit/internal/service"
 	"github.com/joho/godotenv"
 )
 

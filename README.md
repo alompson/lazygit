@@ -15,16 +15,16 @@
 ### Using `go install` (Recommended)
 
 ```bash
-go install github.com/alompson/lazy-git@latest
+go install github.com/alompson/lazygit@latest
 ```
 
 ### From Source
 
 ```bash
-git clone https://github.com/alompson/lazy-git.git
-cd lazy-git
-go build -o lazy-git
-sudo mv lazy-git /usr/local/bin/  # Optional: make it globally available
+git clone https://github.com/alompson/lazygit.git
+cd lazygit
+go build -o lazygit
+sudo mv lazygit /usr/local/bin/  # Optional: make it globally available
 ```
 
 ## ⚙️ Configuration

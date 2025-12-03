@@ -1,4 +1,4 @@
-module github.com/alompson/lazy-git
+module github.com/alompson/lazygit
 
 go 1.25.4
 
