@@ -26,7 +26,7 @@ All commands below should be run from the repository root.
 - Build the CLI binary:
 
   ```sh path=null start=null
-  go build -o ai-commit-cli .
+  go build -o lazygit .
   ```
 
 - Run the CLI without a separate build step (useful during development):
@@ -38,7 +38,7 @@ All commands below should be run from the repository root.
 - After building, invoke the binary directly (name may differ if you change `-o`):
 
   ```sh path=null start=null
-  ./ai-commit-cli --help
+  ./lazygit --help
   ```
 
 ### Tests

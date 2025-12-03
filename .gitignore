@@ -4,7 +4,7 @@
 # Binaries
 gia
 goc
-ai-commit-cli
+lazy-git
 
 # Go
 *.exe
