@@ -7,11 +7,11 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/alompson/ai-commit-cli/cmd"
-	"github.com/alompson/ai-commit-cli/internal/ai"
-	"github.com/alompson/ai-commit-cli/internal/config"
-	"github.com/alompson/ai-commit-cli/internal/git"
-	"github.com/alompson/ai-commit-cli/internal/service"
+	"github.com/alompson/lazy-git/cmd"
+	"github.com/alompson/lazy-git/internal/ai"
+	"github.com/alompson/lazy-git/internal/config"
+	"github.com/alompson/lazy-git/internal/git"
+	"github.com/alompson/lazy-git/internal/service"
 	"github.com/joho/godotenv"
 )
 

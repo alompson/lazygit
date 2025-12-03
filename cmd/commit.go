@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/alompson/ai-commit-cli/internal/service"
+	"github.com/alompson/lazy-git/internal/service"
 	"github.com/spf13/cobra"
 )
 

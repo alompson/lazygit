@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/alompson/ai-commit-cli/internal/ai"
-	"github.com/alompson/ai-commit-cli/internal/git"
+	"github.com/alompson/lazy-git/internal/ai"
+	"github.com/alompson/lazy-git/internal/git"
 )
 
 // CommitService handles commit message generation logic
