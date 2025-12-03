@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Binaries
+gia
+goc
+ai-commit-cli
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
